@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**BryanAv7/BryanAv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola 👋 soy Bryan / BryanAv7 ✨
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.linkedin.com/in/bryan-avila-b579b5302/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/>
+  </a>
+  <a href="mailto:unsimpledev@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bryan2244ismael@gmail.com"/>
+  </a>
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Sobre mi 😃
+🎓 Estudiante de Ingeniería de Ciencias de la Computación
+
+💻 Apasionado por el desarrollo de aplicaciones web  
+
+🛡️ Aficionado a la ciberseguridad  
+
+👁️ Desarrollador de proyectos con visión por computadora
+
+📫 Contacto: bryan2244ismael@gmail.com / bavilag@est.ups.edu.ec
+
+# Tecnologías conocidas👨🏻‍💻
+[![My Skills](https://skillicons.dev/icons?i=angular,cpp,css,docker,firebase,git,github,html,java,js,linux,mysql,nodejs,opencv,postgres,python,ts,visualstudio,vscode)](https://skillicons.dev)
+ 
+
+# Github Stats📈
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanAv7)](https://git.io/streak-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanAv7&layout=compact)
+
+
+
+
