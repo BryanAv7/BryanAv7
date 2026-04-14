@@ -12,13 +12,13 @@
 <br>
 
 # Sobre mi 😃
-🎓 Estudiante de Ingeniería de Ciencias de la Computación
+🎓 Soy Ingeniero en Ciencias de la Computación, graduado en la Universidad Politécnica Salesiana.
 
-💻 Apasionado por el desarrollo de aplicaciones web  
+💻 Apasionado por el desarrollo de aplicaciones web y móvil. 
 
-🛡️ Aficionado a la ciberseguridad  
+🛡️ Aficionado a la ciberseguridad.  
 
-👁️ Desarrollador de proyectos con visión por computadora
+👁️ Desarrollador de proyectos con visión por computadora y machine learning.
 
 📫 Contacto: bryan2244ismael@gmail.com / bavilag@est.ups.edu.ec
 
