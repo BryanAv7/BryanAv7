@@ -1,5 +1,5 @@
-
 # Hola 👋 soy Bryan / BryanAv7 ✨
+![Visitor Count](https://komarev.com/ghpvc/?username=BryanAv7&color=blue)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bryan-avila-b579b5302/" target="blank">
@@ -14,24 +14,38 @@
 # Sobre mi 😃
 🎓 Soy Ingeniero en Ciencias de la Computación, graduado en la Universidad Politécnica Salesiana.
 
-💻 Apasionado por el desarrollo de aplicaciones web y móvil. 
-
-🛡️ Aficionado a la ciberseguridad.  
+💻 Apasionado por el desarrollo de aplicaciones web y móvil.
 
 👁️ Desarrollador de proyectos con visión por computadora y machine learning.
 
+🏋️ En mi tiempo libre me gusta explorar tecnologías emergentes y mantenerme activo practicando CrossFit.
+
 📫 Contacto: bryan2244ismael@gmail.com / bavilag@est.ups.edu.ec
 
-# Tecnologías conocidas👨🏻‍💻
-[![My Skills](https://skillicons.dev/icons?i=angular,cpp,css,docker,firebase,git,github,html,java,js,linux,mysql,nodejs,opencv,postgres,python,ts,visualstudio,vscode)](https://skillicons.dev)
- 
+# Proyectos destacados 🚀
+- 🏍️🔍 **[Sistema inteligente de gestión de mantenimientos y servicios de motocicletas mediante reconocimiento de placas con IA](https://dspace.ups.edu.ec/handle/123456789/32032)** — Arquitectura de microservicios integrada con modelos de IA y OCR para el reconocimiento automático de placas vehiculares.
 
-# Github Stats📈
+# Habilidades tecnicas 👨🏻‍💻
+
+**Frontend:**
+[![My Skills](https://skillicons.dev/icons?i=angular,flutter)](https://skillicons.dev)
+
+**Backend:**
+[![My Skills](https://skillicons.dev/icons?i=spring,java,js,nodejs,python)](https://skillicons.dev)
+
+**Bases de datos:**
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+`+ SQL Server`
+
+**AI / Data:**
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn)](https://skillicons.dev)
+`+ Pandas, Keras, NumPy`
+
+**Dev Environments & Design:**
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,figma)](https://skillicons.dev)
+
+**Herramientas y otros:**
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+
+# Github Stats 📈
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BryanAv7)](https://git.io/streak-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanAv7&layout=compact)
-
-
-
-
