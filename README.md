@@ -1,4 +1,4 @@
-# Hola 👋 soy Bryan / BryanAv7 ✨
+# Hola 👋 soy Bryan Avila / BryanAv7 ✨
 ![Visitor Count](https://komarev.com/ghpvc/?username=BryanAv7&color=blue)
 
 <p align="left">
@@ -20,7 +20,7 @@
 
 🏋️ En mi tiempo libre me gusta explorar tecnologías emergentes y mantenerme activo practicando CrossFit.
 
-📫 Contacto: bryan2244ismael@gmail.com / bavilag@est.ups.edu.ec
+📫 Contacto: bryan2244ismael@gmail.com
 
 # Proyectos destacados 🚀
 - 🏍️🔍 **[Sistema inteligente de gestión de mantenimientos y servicios de motocicletas mediante reconocimiento de placas con IA](https://dspace.ups.edu.ec/handle/123456789/32032)** — Arquitectura de microservicios integrada con modelos de IA y OCR para el reconocimiento automático de placas vehiculares.
